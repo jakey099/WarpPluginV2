@@ -1,6 +1,6 @@
 api-version: 1.18
 name: WarpGUITools
-version: 3.0
+version: 2.3
 author: Jakey099
 main: me.jakey099.WarpGUITools.Main
 description: WarpGUI tools for easy teleport GUI setup
